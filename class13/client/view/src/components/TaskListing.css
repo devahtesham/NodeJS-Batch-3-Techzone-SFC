@@ -1,0 +1,14 @@
+.task-card {
+    background: #ffa0df;
+    /* height: 220px; */
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 18px 0 #0000005c;
+    transform: rotate(351deg);
+}
+.task-desc p {
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 150px;
+}
